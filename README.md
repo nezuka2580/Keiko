@@ -1,2 +1,2 @@
 # Keiko
-稽古場
+AtCoderProblems等、稽古場として利用
