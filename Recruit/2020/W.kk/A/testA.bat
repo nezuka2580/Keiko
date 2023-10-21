@@ -12,6 +12,7 @@ java Permutation ABC
 java Permutation ABB
 java Permutation ABCC
 
+REM テスト（異常）
 java Permutation
 java Permutation A B
 java Permutation あいう
